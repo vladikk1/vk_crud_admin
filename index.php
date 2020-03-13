@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-var_dump("ПРИВЕТ ИЗ ГЛАВНОГО ФАЙЛА");
+var_dump("ПРИВЕТ ИЗ ГИТХАБА");
 exit();
 //session_destroy();
 if(!empty($_SESSION['email'])){
